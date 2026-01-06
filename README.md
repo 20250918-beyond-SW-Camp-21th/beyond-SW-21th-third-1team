@@ -375,6 +375,9 @@ develop & main branch로 merge할 때에는 pull request가 필요합니다. pul
 
 <img width="1665" height="436" alt="Image" src="https://github.com/user-attachments/assets/f98f395f-c147-4db9-bf06-e583bc472fda" />
 
+<img width="1354" height="367" alt="image" src="https://github.com/user-attachments/assets/d21dd918-3e88-4426-bbb1-c0ee177f473f" />
+
+
 ## 8. 회고 ✍️
 
 | 이름 | 회고 |
